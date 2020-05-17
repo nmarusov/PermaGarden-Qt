@@ -1,0 +1,8 @@
+fbs==0.8.6
+pyqt5
+PyInstaller==3.4
+shapely
+pytest
+autopep8
+flake8
+flake8-docstrings

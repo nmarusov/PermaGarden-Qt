@@ -1,0 +1,15 @@
+Настройка окружения разработчика
+    Установить Python 3.6.7, Qt Designer, Windows 10 SDK, NSIS и Visual Studio Code.
+    Добавить Windows 10 SDK, NSIS в PATH
+    Завести репозиторий на GitHub.
+    Извлечь репозиторий на локальную машину. Работать только с путями ASCII.
+    Установить расширения VS Code: Python, autopep8
+    Создать виртуальное окружение. Выбрать это окружение в VS Code.
+    Установить wheel.
+    Создать файлы requirements-*.txt.
+    Установить зависимости requirements-dev.txt.
+    Создать каркас раскладки файлов "fbs startproject"
+    Добавить зависимости в src\requirements\base.txt
+    Установить переменную окружения QT_PLUGIN_PATH.
+    Проверить fbs run, fbs freeze, fbs installer
+    Настройка отдадки

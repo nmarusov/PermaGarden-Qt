@@ -1,0 +1,5 @@
+pyqt5
+shapely
+pytest
+flake8
+flake8-docstrings
