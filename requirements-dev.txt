@@ -1,6 +1,6 @@
 fbs==0.8.6
 pyqt5
-PyInstaller==3.4
+PyInstaller==3.6
 shapely
 pytest
 autopep8
